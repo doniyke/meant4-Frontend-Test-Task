@@ -1,4 +1,4 @@
-# meant4-software-frontend-test
+# Meant4-Frontend-Test-Task
 >This project is to : Create simple Contact Form App for collecting messages and posting them to REST API. The
 >App should validate input against given criteria and send a POST request to a given API response
 
@@ -38,4 +38,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# meant4-Frontend-Test-Task
+# Meant4-Frontend-Test-Task
