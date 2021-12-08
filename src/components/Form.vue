@@ -122,9 +122,9 @@ export default {
                 this.error = true;
                 this.errorMsg = "Message is required"
                 this.loading = false;
-            }else if(this.subject.length > 500){
+            }else if(this.message.length > 500){
                 this.error = true;
-                this.errorMsg = "Subject must be 500 characters or below"
+                this.errorMsg = "Message must be 500 characters or below"
                 this.loading = false;
             }else{
                 const config = {
